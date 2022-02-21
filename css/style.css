@@ -53,10 +53,7 @@ p {
     text-align: center;
     display: flex;
     justify-content: center;
-    
-    
-   
-   
+    border-radius:50%;  
 }
 .birthday{
     height: 200px;
